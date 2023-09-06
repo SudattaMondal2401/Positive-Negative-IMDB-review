@@ -4,7 +4,7 @@
 
 The following jupyter notebook uses a movie review dataset found on kaggle to train ML models that can detect whether a IMDB  review is positive or negative based on their content.
 
-The link to the dataset can be found [here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
+The link to the dataset can be found [here] (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
 
 We compare the various ML models available and see which one gives the highest accuracy and f1 score. 
 
