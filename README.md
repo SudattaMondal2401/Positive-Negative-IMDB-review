@@ -1,4 +1,4 @@
-# Positive-Negative-IMDB-review
+# Positive-Negative-IMDB-Review
 
 ### Introduction 
 
